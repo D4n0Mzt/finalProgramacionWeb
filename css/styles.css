@@ -86,6 +86,22 @@ body {
     color:#000000;    
 }
 
+.textoc{
+    background-color: #ffffffa1;
+    text-align: center;
+    font-family: 'Cookie', cursive;
+    font-family: 'Proza Libre', sans-serif;
+    
+    width: 85%;
+    
+    margin: 55px;
+    border-radius: 45px;
+    padding: 10px 10px;
+
+    font-size: 20px;
+    color:#000000;    
+}
+
 .centro section{
     width: 67%;
     height: 600px;
@@ -109,7 +125,7 @@ body {
 .nos{
     width: 99%;
     height: 600px;
-    float: left;
+
     background-color: rgba(255, 174, 0, 0.623);
     margin: 0.5em;
     border-radius: 5px;
@@ -123,6 +139,15 @@ body {
     justify-items: center;
     width: 200px;
     height: 150px;
+}
+
+.imagi{
+    border-radius: 25px;
+    border-color: #8d4d03;
+    padding: 15px;
+    justify-items: center;
+    width: 400px;
+    height: 350px;
 }
 
 
