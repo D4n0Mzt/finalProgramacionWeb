@@ -276,9 +276,9 @@ h1,h2,h3 {
     display: flex;
 }
 
-.alinear-derecha{
-  /* margin-left: 35%;*/
-}
+/*.alinear-derecha{
+   margin-left: 35%;
+}*/
 
 .alinear-izquierda{
     margin-right: 35%;
